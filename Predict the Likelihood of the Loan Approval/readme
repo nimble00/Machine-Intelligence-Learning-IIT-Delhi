@@ -3,7 +3,7 @@ Hello there,
 I observed the data and concluded that it was totally discreet, categorical, to be exact.
 I mean the data can be and should be converted to categorical data for better estimation.
 
-From my limited but flourishing knowledge of the subject, I decided to use the Naive Bayes approach to estimate the likelihood of 'Loan Approval'.
+I decided to use the Naive Bayes approach to estimate the likelihood of 'Loan Approval'.
 Hence, I went ahead with the assumption that all the feature vectors are independent of each other and have the same weightage in decision making.
 
 Therefore, I wrote the code following the Bayes Theorem ie.
